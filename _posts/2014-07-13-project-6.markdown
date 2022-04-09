@@ -10,6 +10,37 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: LThe Basics
+
+    Always keep the gun pointed in a safe direction (even if unloaded)
+    Always keep your finger off the trigger until ready to shoot (firearm leveled at target)
+    Always keep the gun unloaded until ready to use (ready to engage a target)
+
+When using or storing a gun, always follow these NRA rules:
+
+        Know your target and what is beyond
+        Be sure the gun is safe to operate
+        Know how to use the gun safely
+        Use only the correct ammunition for your gun
+        Wear eye and ear protection, as appropriate
+        Never use alcohol or drugs before or while shooting
+        Store guns so they are not accessible to unauthorized personsBe aware that certain types of guns and many shooting activities require additional safety precautions
+
+ The Koko Head Rules
+
+    Know and obey all range commands
+    Unload, open the action, remove the magazine and bench all firearms during a cease fire
+    Do NOT handle any firearms or stand at the firing line where firearms are present while others are down range during a cease fire
+    Load no more than 5 rounds in the magazine
+    No rapid or indiscriminate firing
+    Shoot only at authorized targets. No plinking of objects on backstop berm or on the ground.  Human silhouette targets are not allowed
+    Wear eye and ear protection
+        Children age 17 and below must be accompanied by an adult
+        Children 9-12 years may fire .22 long rifle caliber only, with an adult standing next to and assisting the child
+        Children must wear eye and ear protection
+        Children 8 years and younger are prohibited from using firearms
+    No alcohol or illegal drugs allowed
+    No gambling
+
 
 ---
